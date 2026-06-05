@@ -239,7 +239,7 @@ RainRainGoAway/
 
 ## 🏆 Built For
 
-**Kriti** — IIT Kanpur's annual technical festival robotics competition.
+**KRITI** — IIT Guwahati's annual technical festival competition.
 
 ---
 
