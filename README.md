@@ -52,7 +52,7 @@ The system leverages **Torricelli's theorem** (velocity of efflux): as water hei
 ## ⚡ Circuit Design
 
 <p align="center">
-  <img src="images/circuit_schematic.png" alt="Full KiCad schematic of the RainRainGoAway system" width="900"/>
+  <img src="images/circuit_schematic.jpg" alt="Full KiCad schematic of the RainRainGoAway system" width="900"/>
   <br/>
   <em>Complete system schematic (KiCad) — click to enlarge</em>
 </p>
@@ -193,7 +193,7 @@ RainRainGoAway/
 ├── kriti.kicad_sch                        # Full circuit schematic (KiCad)
 └── images/
     ├── rain_sensor.jpg                    # Photo of the U-tube rain sensor
-    ├── circuit_schematic.png              # Screenshot of the KiCad schematic
+    ├── circuit_schematic.jpg              # Screenshot of the KiCad schematic
     └── theory_notes.jpg                   # Handwritten RC differentiator derivation
 ```
 
