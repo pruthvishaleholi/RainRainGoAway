@@ -122,7 +122,7 @@ The system is composed of several interconnected subsystems:
 ## 📐 Speed Detection Theory
 
 <p align="center">
-  <img src="images/theory_notes.jpg" alt="Handwritten derivation of RC differentiator output" width="500"/>
+  <img src="images/theory_notes.jpeg" alt="Handwritten derivation of RC differentiator output" width="500"/>
   <br/>
   <em>RC differentiator theory — Vout is proportional to the rate of change of Vin</em>
 </p>
@@ -194,7 +194,7 @@ RainRainGoAway/
 └── images/
     ├── rain_sensor.jpg                    # Photo of the U-tube rain sensor
     ├── circuit_schematic.jpg              # Screenshot of the KiCad schematic
-    └── theory_notes.jpg                   # Handwritten RC differentiator derivation
+    └── theory_notes.jpeg                   # Handwritten RC differentiator derivation
 ```
 
 ---
